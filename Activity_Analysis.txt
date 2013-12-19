@@ -1,0 +1,15 @@
+SNOOZY
+
+Subject : Sandro Pianetti and Seena Peethambaran students of masters in Interaction design at SUPSI
+
+Object : Design and develop an application (mobile or web) (concept of quantified self) to analyse the alarm snoozing pattern of people.
+
+Outcome : A mobile app for users to set alarm which also allows them to analyse the snooze history.
+
+Mediating Artifacts : Paper prototypes, Jsbin, html5, css3, jquery, Adobe creative suite.
+
+Rules : Following Creative commons license Attribution-Non commercial 4.0 International - with the source code and application being shared and not allowing commercial use
+
+Community :  Fabio Franchino, MAIND class 2013-14
+
+Roles : Research, User Interface design, Interaction design, Visual Design, Software development, Documentation
