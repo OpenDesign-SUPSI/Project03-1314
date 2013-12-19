@@ -7,12 +7,13 @@
 <rect x="143.211" y="31.528" fill="none" width="348.781" height="414.634"/>
 <text transform="matrix(1 0 0 1 143.2114 41.5803)" font-family="'TitilliumWeb-Regular'" font-size="14">IV - Developement</text>
 <text transform="matrix(1 0 0 1 143.2114 75.1799)" font-family="'TitilliumWeb-Regular'" font-size="14">01. Subject: Project Manager</text>
-<text transform="matrix(1 0 0 1 143.2114 108.7795)" font-family="'TitilliumWeb-Regular'" font-size="14">02. Object: Prototype</text>
+<text transform="matrix(1 0 0 1 143.2114 108.7795)" font-family="'TitilliumWeb-Regular'" font-size="14">02. Object: Source Code</text>
 <text transform="matrix(1 0 0 1 143.2114 142.3801)" font-family="'TitilliumWeb-Regular'" font-size="14">03. Outcome: Snoozy App</text>
-<text transform="matrix(1 0 0 1 143.2114 175.9797)" font-family="'TitilliumWeb-Regular'" font-size="14">04. Mediating Artifacts: eclipse, javascript, html, CSS</text>
+<text transform="matrix(1 0 0 1 143.2114 175.9797)" enable-background="new    "><tspan x="0" y="0" font-family="'TitilliumWeb-Regular'" font-size="14">04. Mediating Artifacts: Prototype and eclipse, javascript, </tspan><tspan x="0" y="16.8" font-family="'TitilliumWeb-Regular'" font-size="14">html, CSS, github knowledge</tspan></text>
 <text transform="matrix(1 0 0 1 143.2114 226.3801)" font-family="'TitilliumWeb-Regular'" font-size="14">05. Rules: Coding standards, Creative Commons</text>
 <text transform="matrix(1 0 0 1 143.2114 243.1799)" font-family="'TitilliumWeb-Regular'" font-size="14">       </text>
 <text transform="matrix(1 0 0 1 143.2114 276.7795)" font-family="'TitilliumWeb-Regular'" font-size="14">06. Community: gitHub, xda developers forum </text>
-<text transform="matrix(1 0 0 1 143.2114 310.3801)" enable-background="new    "><tspan x="0" y="0" font-family="'TitilliumWeb-Regular'" font-size="14">07. Roles: Front End Developers, Platform Developers</tspan><tspan x="0" y="16.8" font-family="'TitilliumWeb-Regular'" font-size="14">       System Admins, Web Developers, Software Engineers</tspan></text>
+<text transform="matrix(1 0 0 1 143.2114 310.3801)" font-family="'TitilliumWeb-Regular'" font-size="14">07. Roles: Front End Developers, Platform Developers</text>
+<text transform="matrix(1 0 0 1 143.2114 327.1799)" font-family="'TitilliumWeb-Regular'" font-size="14">       System Admins, Web Developers, Software Engineers</text>
 <text transform="matrix(1 0 0 1 143.2114 327.1799)" font-family="'TitilliumWeb-Regular'" font-size="14">       </text>
 </svg>
