@@ -1,0 +1,175 @@
+body{
+  padding:0;
+  margin:0;
+font-family: 'Raleway', sans-serif;
+  font-weight: 500; 
+}
+
+
+#bg{
+  position:absolute;
+   display: block;
+    height:100%;
+    width:100%;
+   z-index:0;
+  
+   background: rgba(80,26,143,1);
+background: -moz-linear-gradient(top, rgba(80,26,143,1) 0%, rgba(134,185,194,1) 50%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(80,26,143,1)), color-stop(50%, rgba(134,185,194,1)));
+background: -webkit-linear-gradient(top, rgba(80,26,143,1) 0%, rgba(134,185,194,1) 50%);
+background: -o-linear-gradient(top, rgba(80,26,143,1) 0%, rgba(134,185,194,1) 50%);
+background: -ms-linear-gradient(top, rgba(80,26,143,1) 0%, rgba(134,185,194,1) 50%);
+background: linear-gradient(to bottom, rgba(80,26,143,1) 0%, rgba(134,185,194,1)100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#501a8f', endColorstr='#86b9c2', GradientType=0 );
+  
+  
+
+ 
+}
+
+.mainScreen{
+   position:absolute;
+ 
+    color: #8e74b5;
+    display: block;
+    height:50%;
+    width:100%;
+ 
+    
+}
+
+
+.firstDiv{
+  
+  position:absolute;
+  top:14%;
+  width:100%;
+  line-height: 40px;
+  text-decoration: none;
+  text-align: center;
+  font-size:25px;
+  color: #af98d1;
+
+}
+
+.halfDiv{
+  
+  position:absolute;
+  top:45%;
+  width:100%;
+  line-height: 40px;
+  text-decoration: none;
+  text-align: center;
+  font-size:25px;
+  color:#C1BADB;
+
+
+}
+
+.secondDiv{
+  
+  position:absolute;
+  top:40%;
+  width:100%;
+  line-height: 40px;
+  text-decoration: none;
+  text-align: center;
+  font-size:25px;
+  color: #5e4da8;
+   top:70%;
+
+}
+
+
+
+
+.seeSnooze{
+   position:absolute;
+ 
+    color: white;
+    display: block;
+    height:50%;
+    width:100%;
+    line-height: 40px;
+    text-decoration: none;
+    text-align: center;
+top:50%;
+    font-size:50px;
+}
+
+.clock{
+  font-weight: 200; 
+  position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 190px;
+    height: 45px;
+    margin: auto;
+    font-size:80px;
+   color:#C1BADB;
+    text-align: center;
+    display: block;
+    line-height:45px;
+
+
+}
+
+
+.dropdown{
+  font-size:25pt;
+margin-top:70px;
+ background: transparent;
+    color:#C1BADB;
+}
+
+
+.alarms{
+    position:fixed;
+    font-weight: 100; 
+    font-size:25px;
+    margin-top: 0px;
+    color: white;
+    display: block;
+    height:100%;
+    width:100%;
+    line-height: 40px;
+    text-decoration: none;
+    text-align: center;
+    top:15%;
+   
+   
+} 
+
+#slider{
+  width:173px;
+  margin-top:20px;
+}
+
+#difficulty{
+  font-size:20px;
+}
+
+.centerized {
+  width: 200px;
+  height: 200px;
+  overflow: visible;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+    color:#C1BADB;
+}
+
+
+#second{
+  margin-top:40px;
+
+}
+
+#third{
+  margin-top:80px;
+}
+
+
+
