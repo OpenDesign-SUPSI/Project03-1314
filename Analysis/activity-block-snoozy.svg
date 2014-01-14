@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10067"
+   inkscape:export-ydpi="200"
+   inkscape:export-xdpi="200"
+   inkscape:export-filename="../activity-block-snoozy.png"
+   sodipodi:docname="activity-block-snoozy.svg"
+   inkscape:version="0.48.4 r9939"
+   x="0px"
+   y="0px"
+   width="1488.189px"
+   height="1052.361px"
+   viewBox="0 0 1488.189 1052.361"
+   enable-background="new 0 0 1488.189 1052.361"
+   xml:space="preserve"><metadata
+   id="metadata58"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs56" />
+<sodipodi:namedview
+   units="mm"
+   inkscape:cx="306.59999"
+   inkscape:zoom="1.0969502"
+   pagecolor="#ffffff"
+   showgrid="true"
+   inkscape:cy="725.73039"
+   bordercolor="#666666"
+   showguides="false"
+   borderopacity="1.0"
+   id="base"
+   inkscape:guide-bbox="true"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:window-height="705"
+   inkscape:window-width="1366"
+   inkscape:current-layer="layer4"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="1"
+   inkscape:document-units="mm">
+	<sodipodi:guide
+   id="guide24376"
+   orientation="0,1"
+   position="478.34646,974.40945" />
+	<sodipodi:guide
+   id="guide24416"
+   orientation="1,0"
+   position="35.433071,938.97638" />
+	<sodipodi:guide
+   id="guide24418"
+   orientation="1,0"
+   position="1452.7559,921.25984" />
+	<sodipodi:guide
+   id="guide24420"
+   orientation="0,1"
+   position="974.40945,106.29921" />
+	<sodipodi:guide
+   id="guide24422"
+   orientation="0,1"
+   position="389.76378,938.97638" />
+	<sodipodi:guide
+   id="guide24424"
+   orientation="0,1"
+   position="701.5748,1009.8425" />
+	<sodipodi:guide
+   id="guide25257"
+   orientation="0,1"
+   position="230.31496,921.25984" />
+</sodipodi:namedview>
+<g
+   id="layer1"
+   transform="translate(0,2.988066e-5)"
+   inkscape:label="Layout"
+   inkscape:groupmode="layer">
+</g>
+<g
+   id="layer2"
+   inkscape:label="Editable text"
+   inkscape:groupmode="layer">
+</g>
+<g
+   id="layer3"
+   inkscape:label="Table cells"
+   inkscape:groupmode="layer">
+	<g
+   id="g4872"
+   transform="translate(1186.9027,87.040362)">
+	</g>
+</g>
+<g
+   id="layer4"
+   inkscape:label="Storyboard"
+   inkscape:groupmode="layer">
+	
+		<rect
+   id="rect3190"
+   x="102.76513"
+   y="145.83514"
+   width="318.45673"
+   height="374.74673"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.730964;stroke-linejoin:round" />
+	<text
+   transform="matrix(1 0 0 1 108.1597 166.5149)"
+   enable-background="new    "
+   id="text17"><tspan
+     x="0"
+     y="0"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan19">SNOOZY</tspan><tspan
+     x="0"
+     y="28.8"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan21">01 : Sandro Pianetti and Seena Peethambaran students </tspan><tspan
+     x="0"
+     y="43.2"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan23">of masters in Interaction design at SUPSI</tspan><tspan
+     x="0"
+     y="72"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan25">02 : Design and develop an application (mobile or web) </tspan><tspan
+     x="0"
+     y="86.4"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan27">(concept of quantified self) to analyse the alarm snoozing </tspan><tspan
+     x="0"
+     y="100.8"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan29">pattern of people.</tspan><tspan
+     x="0"
+     y="129.6"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan31">03 : A mobile app for users to set alarm which also allows</tspan><tspan
+     x="0"
+     y="144"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan33">them to analyse the snooze history.</tspan><tspan
+     x="0"
+     y="172.8"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan35">04 : Paper prototypes, Jsbin, html5, css3, jquery, </tspan><tspan
+     x="0"
+     y="187.2"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan37">Adobe creative suite.</tspan><tspan
+     x="0"
+     y="216"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan39">05: Following Creative commons license </tspan><tspan
+     x="0"
+     y="230.4"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan41">Attribution-Non commercial 4.0 International - with </tspan><tspan
+     x="0"
+     y="244.8"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan43">the source code and application being shared and not </tspan><tspan
+     x="0"
+     y="259.2"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan45">allowing commercial use</tspan><tspan
+     x="0"
+     y="288"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan47">06 :  Fabio Franchino, MAIND class 2013-14</tspan><tspan
+     x="0"
+     y="316.8"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan49">07 : Research, User Interface design, Interaction design, </tspan><tspan
+     x="0"
+     y="331.2"
+     font-family="'TitilliumWeb-Regular'"
+     font-size="12"
+     id="tspan51">Visual Design, Software development, Documentation</tspan></text>
+
+	<g
+   id="flowRoot6245">
+	</g>
+	<g
+   id="flowRoot4081">
+	</g>
+	<g
+   id="flowRoot4329">
+	</g>
+</g>
+</svg>
