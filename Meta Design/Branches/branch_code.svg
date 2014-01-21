@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg26866"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 44">
+  <defs
+     id="defs26868" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="0.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="0"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="268.55142"
+     inkscape:cy="982.45722"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata26871">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect18228-1"
+       width="292.86026"
+       height="53.147762"
+       x="-69.28727"
+       y="-42.783127" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:6.09040356;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path18230-21"
+       sodipodi:cx="1160.6653"
+       sodipodi:cy="-49.714245"
+       sodipodi:rx="47.477169"
+       sodipodi:ry="15.152288"
+       d="m 1208.1425,-49.714245 a 47.477169,15.152288 0 1 1 -94.9544,0 47.477169,15.152288 0 1 1 94.9544,0 z"
+       transform="matrix(0.36985685,0,0,0.65601948,-237.30526,23.589459)" />
+    <path
+       transform="matrix(0.36985685,0,0,0.65601948,-237.4147,16.299985)"
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:6.09040356;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path18230-4-4"
+       sodipodi:cx="1160.6653"
+       sodipodi:cy="-49.714245"
+       sodipodi:rx="47.477169"
+       sodipodi:ry="15.152288"
+       d="m 1208.1425,-49.714245 a 47.477169,15.152288 0 1 1 -94.9544,0 47.477169,15.152288 0 1 1 94.9544,0 z" />
+    <path
+       transform="matrix(0.36985685,0,0,0.65601948,-237.19584,9.3920359)"
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:6.09040356;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path18230-45-3"
+       sodipodi:cx="1160.6653"
+       sodipodi:cy="-49.714245"
+       sodipodi:rx="47.477169"
+       sodipodi:ry="15.152288"
+       d="m 1208.1425,-49.714245 a 47.477169,15.152288 0 1 1 -94.9544,0 47.477169,15.152288 0 1 1 94.9544,0 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       x="-60.95155"
+       y="-19.802822"
+       id="text18414"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan18416"
+         x="-60.95155"
+         y="-19.802822">Code Repo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       x="-63.808697"
+       y="-1.2314112"
+       id="text18418"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan18420"
+         x="-63.808697"
+         y="-1.2314112"
+         style="font-size:18px;font-style:oblique;-inkscape-font-specification:Titillium Web Oblique">&lt;repository link&gt;</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect26913"
+       width="124.24876"
+       height="38.385799"
+       x="-69.700523"
+       y="27.057348" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       x="-62.629463"
+       y="50.290859"
+       id="text27448"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan27450"
+         x="-62.629463"
+         y="50.290859"
+         style="font-size:12px">Developement branch</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect26913-7"
+       width="124.24876"
+       height="38.385799"
+       x="-69.19545"
+       y="72.514214" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       x="-62.124386"
+       y="95.747726"
+       id="text27448-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan27450-6"
+         x="-62.124386"
+         y="95.747726"
+         style="font-size:12px">Testing  branch</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect26913-1"
+       width="124.24876"
+       height="38.385799"
+       x="-69.19545"
+       y="118.98122" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       x="-62.124386"
+       y="142.21475"
+       id="text27448-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan27450-7"
+         x="-62.124386"
+         y="142.21475"
+         style="font-size:12px">Release branch</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0"
+       d="m 54.548237,47.2604 272.237473,0"
+       id="path27509"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="m 55.66698,91.647896 272.23747,0"
+       id="path27509-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="m 56.381265,138.43361 272.237475,0"
+       id="path27509-9"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect27536"
+       width="502.04581"
+       height="265.6701"
+       x="-102.02541"
+       y="-71.937599" />
+  </g>
+</svg>
